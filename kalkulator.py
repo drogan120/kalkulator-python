@@ -55,26 +55,4 @@ def main():
         main()
 if __name__ == '__main__':
     main()
-    
-========================================================
-   
-$python kalkulator.py
-Pilih Operasi:
-1. Jumlah:
-2. Kurang:
-3. Bagi:
-4. Kali:
-5. Sisa bagi:
-6. Pangkat:
-masukan  pilihan 1 sampai 6: 1
-Masukan angka pertama: 1
-Masukan angka kedua: 1
-1 + 1 = 2
-Pilih Operasi:
-1. Jumlah:
-2. Kurang:
-3. Bagi:
-4. Kali:
-5. Sisa bagi:
-6. Pangkat:
-masukan  pilihan 1 sampai 6:
+
